@@ -1,4 +1,4 @@
-package thirdAngleOfTriangle2;
+package thirdAngleOfTriangle;
 
 public class ThirdAngleOfTriangle {
     /**

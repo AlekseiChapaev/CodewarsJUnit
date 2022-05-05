@@ -1,4 +1,4 @@
-package thirdAngleOfTriangle2;
+package thirdAngleOfTriangle;
 
 import org.junit.jupiter.api.Test;
 
