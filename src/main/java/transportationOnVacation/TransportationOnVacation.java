@@ -1,4 +1,4 @@
-package transportationOnVacation2;
+package transportationOnVacation;
 
 public class TransportationOnVacation {
     /**

@@ -1,4 +1,4 @@
-package transportationOnVacation2;
+package transportationOnVacation;
 
 import org.junit.jupiter.api.Test;
 
