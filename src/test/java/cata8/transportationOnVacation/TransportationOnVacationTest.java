@@ -1,13 +1,15 @@
-package transportationOnVacation;
+package cata8.transportationOnVacation;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import cata8.transportationOnVacation.TransportationOnVacation;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 class TransportationOnVacationTest {
     @Test
     public void under3Tests() {
-        assertEquals(40, TransportationOnVacation.rentalCarCost(1));
+        Assertions.assertEquals(40, TransportationOnVacation.rentalCarCost(1));
         assertEquals(80, TransportationOnVacation.rentalCarCost(2));
     }
 

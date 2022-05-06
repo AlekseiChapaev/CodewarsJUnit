@@ -1,4 +1,4 @@
-package transportationOnVacation;
+package cata8.transportationOnVacation;
 
 public class TransportationOnVacation {
     /**

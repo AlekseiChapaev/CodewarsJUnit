@@ -1,4 +1,4 @@
-package getNthEvenNumber;
+package cata8.getNthEvenNumber;
 
 public class GetNthEvenNumber {
     /**

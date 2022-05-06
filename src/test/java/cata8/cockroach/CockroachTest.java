@@ -1,5 +1,6 @@
-package cockroach;
+package cata8.cockroach;
 
+import cata8.cockroach.Cockroach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

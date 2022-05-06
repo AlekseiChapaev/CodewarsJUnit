@@ -1,4 +1,4 @@
-package thirdAngleOfTriangle;
+package cata8.thirdAngleOfTriangle;
 
 public class ThirdAngleOfTriangle {
     /**

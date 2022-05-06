@@ -1,4 +1,4 @@
-package cockroach;
+package cata8.cockroach;
 
 public class Cockroach {
     /**

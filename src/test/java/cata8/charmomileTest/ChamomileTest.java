@@ -1,6 +1,6 @@
-package charmomileTest;
+package cata8.charmomileTest;
 
-import charmomile.Chamomile;
+import cata8.charmomile.Chamomile;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

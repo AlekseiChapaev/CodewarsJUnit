@@ -1,4 +1,4 @@
-package charmomile;
+package cata8.charmomile;
 
 public class Chamomile {
     /**
