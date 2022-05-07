@@ -1,6 +1,5 @@
 package cata7.jadenCasingStrings;
 
-import cata7.JadenCasingStrings;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

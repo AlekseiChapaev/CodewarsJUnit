@@ -1,4 +1,4 @@
-package cata7;
+package cata7.jadenCasingStrings;
 
 public class JadenCasingStrings {
     /**
