@@ -1,4 +1,4 @@
-package cata8;
+package cata8.centuryFromYear;
 
 public class CenturyFromYear {
     /**

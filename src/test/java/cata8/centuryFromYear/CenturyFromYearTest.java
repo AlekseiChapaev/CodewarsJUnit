@@ -1,6 +1,5 @@
 package cata8.centuryFromYear;
 
-import cata8.CenturyFromYear;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
