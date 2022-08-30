@@ -1,4 +1,4 @@
-package cata8.CountByX;
+package cata8.countByX;
 
 public class CountByX {
 
